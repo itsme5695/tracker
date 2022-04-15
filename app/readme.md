@@ -1,1 +1,3 @@
 ### Tracker application
+
+## Folder Structure
